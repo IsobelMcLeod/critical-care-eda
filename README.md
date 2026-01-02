@@ -1,4 +1,4 @@
-# Exploratory Analysis of Critically Ill Hospital Patients
+# Exploratory Analysis of Intensive Care Hospital Patients
 
 This project explores clinical data from critically ill patients admitted to five US medical centres.
 
